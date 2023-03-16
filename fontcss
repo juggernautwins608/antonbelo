@@ -1,0 +1,42 @@
+ /*set fonts and standard font-sizes*/
+ 
+@import url('https://fonts.googleapis.com/css?family=Hind+Madurai');
+
+body, #bodyId {
+  font-family: "Hind Madurai",
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Hind Madurai"; 
+	color: #212529;
+	font-weight: 300 !important;
+	line-height: 1em;
+}
+h1 {
+	font-size: 32px;
+}
+h2 {
+    font-size: 28px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+h4 {
+    font-size: 16px;
+}
+
+p, ul, ol, li, span, div, td {
+    font-family: "Hind Madurai";
+    font-size: 16px;
+    color: #212529;
+}
+@media only screen and (max-width: 767px) {
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Hind Madurai";
+  }
+  h1 {font-size: 30px;}
+  h2 {font-size: 26px;}
+  h3 {font-size: 24px;}
+  h5 {font-size: 18px;}
