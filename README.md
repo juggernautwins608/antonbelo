@@ -35,7 +35,7 @@ Biking, hiking, watching the waves, tinkering (about to build a 3d printer), ten
 - **No Permission Need** - great insights and attitude regardless of gender IMO. 
 
 ## 🌱 What I’m currently working on
-- Enhancing growth marketing strategies at Kochava.
+- Enhancing growth marketing strategies at my current company.
 - Advising at a few startus 
 - Growth hacking with AI
 
