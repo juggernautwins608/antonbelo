@@ -14,12 +14,12 @@ Welcome to my GitHub profile! I'm a revenue-driven global marketing executive wi
 - **Education:** Bachelor of Science in Business with an emphasis in Marketing from Notre Dame de Namur University
 
 ## ⚡ Fun Facts: 
-**Husband**
-**Father of 3**
-**Play - Magic the Gathering** 
-**BJJ - Blue Bel**t 
-**Love vests and own too many count**
-**You will have me at Lasagna**
+- **Husband**
+- **Father of 3**
+- **Play - Magic the Gathering** 
+- **BJJ - Blue Bel**t 
+- **Love vests and own too many count**
+- **You will have me at Lasagna**
 
 ## 🌱 What I’m currently working on
 - Enhancing growth marketing strategies at Kochava.
