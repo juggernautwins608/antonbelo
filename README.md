@@ -29,7 +29,7 @@ Biking, hiking, watching the waves, tinkering (about to build a 3d printer), ten
  
 ## 📖 Books I recommend all the time: 
 - **The Culture Map**
-- **With Winning in Mind** - eventhough your are not an athlete, I feel this is the best book for any one - especially marketers and sales people.
+- **With Winning In Mind** - The best book for any one - especially marketers and sales people.
 - **Crossing the Chasm**
 - **The Hard Thing About Hard Things**
 - **No Permission Need** - great insights and attitude regardless of gender IMO. 
