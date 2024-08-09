@@ -20,13 +20,23 @@ Welcome to my GitHub profile! I'm a revenue-driven global marketing executive wi
   - Formats:
     - Limited - Specifically Drafting
     - Commander - Casual and cedh    
-- **BJJ - Blue Bel**t 
+- **BJJ - Blue Belt** 
 - **Love vests and own too many count**
 - **You will have me at Lasagna**
+- **Hobbies:** Yes Magic is not here because Magic is life :-) and when I am not playing chauffeur to my kids active sports lives, I am: 
+  - Biking, hiking, watching the waves, tinkering (about to build a 3d printer), tending to the garden fruite plants and trees, telling bad dad jokes, and asking my wife for a dog as often as I can without hitting a tipping point.
+ 
+## 📖 Books I recommend all the time: 
+- **The Culture Map**
+- **With Winning in Mind** - eventhough your are not an athlete, I feel this is the best book for any one - especially marketers and sales people.
+- **Crossing the Chasm**
+- **The Hard Thing About Hard Things**
+- **No Permission Need** - great insights and attitude regardless of gender IMO. 
 
 ## 🌱 What I’m currently working on
 - Enhancing growth marketing strategies at Kochava.
-- Exploring new trends in B2B marketing and data-driven growth.
+- Advising at a few startus 
+- Growth hacking with AI
 
 ## 📫 How to reach me
 - **Email:** [anton@antonbelo.com](mailto:anton@antonbelo.com)
