@@ -23,8 +23,9 @@ Welcome to my GitHub profile! I'm a revenue-driven global marketing executive wi
 - **BJJ - Blue Belt** 
 - **Love vests and own too many count**
 - **You will have me at Lasagna**
-- **Hobbies:** Yes Magic is not here because Magic is life :-) and when I am not playing chauffeur to my kids active sports lives, I am: 
-  - Biking, hiking, watching the waves, tinkering (about to build a 3d printer), tending to the garden fruite plants and trees, telling bad dad jokes, and asking my wife for a dog as often as I can without hitting a tipping point.
+- **Hobbies:**
+Yes Magic is not here because Magic is life :-) and when I am not playing chauffeur to my kids active sports lives, I am: 
+Biking, hiking, watching the waves, tinkering (about to build a 3d printer), tending to the garden fruite plants and trees, telling bad dad jokes, and asking my wife for a dog as often as I can without hitting a tipping point.
  
 ## 📖 Books I recommend all the time: 
 - **The Culture Map**
