@@ -16,7 +16,10 @@ Welcome to my GitHub profile! I'm a revenue-driven global marketing executive wi
 ## ⚡ Fun Facts: 
 - **Husband**
 - **Father of 3**
-- **Play - Magic the Gathering** 
+- **Play - Magic the Gathering**
+  - Formats:
+    - Limited - Specifically Drafting
+    - Commander - Casual and cedh    
 - **BJJ - Blue Bel**t 
 - **Love vests and own too many count**
 - **You will have me at Lasagna**
